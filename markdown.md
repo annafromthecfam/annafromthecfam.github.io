@@ -28,5 +28,5 @@ _Italic. Wow, It even shows it italicized in the code editor._
 1. Item 2
 1. Item 3
 
-![image of a goat](images/goat.jpeg "Goat")
+![image of a goat](images/goat.jpg "Goat")
 [Link...Obviously]("https://snow.instructure.com/")
