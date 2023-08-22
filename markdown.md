@@ -1,6 +1,6 @@
 Hello World
 
-# Learning about Markdown
+# Learning about MARKDOWN
 
 ### What is a client?
 
