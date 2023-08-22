@@ -1,15 +1,6 @@
-Hello World
+# Lyman Wyoming
 
-# Learning about MARKDOWN
-
-### What is a client?
-
-A client makes requests to a server.
-THIS IS A TEST
-
-### What does a server do?
-
-A server returns information or files or something to a client.
+## 107 2nd East Street
 
 _Italic. Wow, It even shows it italicized in the code editor._
 
